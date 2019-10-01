@@ -738,7 +738,7 @@ default 'raise'
             * 'coerce' will return NaT if the timestamp can not be converted
               into the specified timezone. Use ``nonexistent='NaT'`` instead.
 
-              .. deprecated:: 0.24.0
+            .. deprecated:: 0.24.0
 
         Returns
         -------
